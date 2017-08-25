@@ -1,0 +1,56 @@
+nohup: ignoring input
+0.2865
+Cosmology: Detected change in cosmological parameters.
+cutting clusters...
+8678 clusters.
+cutting galaxies...
+835532 galaxies.
+n = 1
+R_min = 0.2
+R_max = 2
+find correlation function...
+finding Jack Knife covarience matrix...
+fitting signal...
+   Best fit A: 4.80927682551
+   error bars: 2.88186203561
+   significance: 1.38245381721
+   Chi^2 of fit: 7.79707492256
+   95% confidence: 10.1136363636
+done
+total run time: 631.807873964 sec
+             or 10.5301312327 min
+             or 0.175502187212 hr
+
+n = 1
+R_min = 0.2
+R_max = 2
+find correlation function...
+finding Randoms covariance matrix...
+fitting signal...
+   Best fit A: 7.57695524804
+   error bars: 3.26566804087
+   significance: 1.88282606072
+   Chi^2 of fit: 7.55970295262
+   95% confidence: 13.2196969697
+done
+total run time: 725.387136936 sec
+             or 12.0897856156 min
+             or 0.201496426927 hr
+
+n = 1
+R_min = 0.2
+R_max = 2
+find correlation function...
+fitting signal...
+   Best fit A: 6.82815523454
+   error bars: 3.27630033037
+   significance: 1.96358633983
+   Chi^2 of fit: 9.25544030147
+   95% confidence: 12.6893939394
+done
+total run time: 634.837046146 sec
+             or 10.5806174358 min
+             or 0.17634362393 hr
+
+finding Jack Knife covarience matrix...
+finding Randoms covariance matrix...

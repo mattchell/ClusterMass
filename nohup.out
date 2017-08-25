@@ -1,0 +1,27 @@
+ : cannot connect to X server localhost:10.0
+0.2865
+Cosmology: Detected change in cosmological parameters.
+cutting clusters...
+8678 clusters.
+cutting galaxies...
+835532 galaxies.
+n = 2
+R_min = 0.2
+R_max = 2
+find correlation function...
+ : Fatal IO error: client killed
+0.2865
+Cosmology: Detected change in cosmological parameters.
+cutting clusters...
+8678 clusters.
+cutting galaxies...
+835532 galaxies.
+n = 2
+R_min = 0.2
+R_max = 2
+find correlation function...
+fitting signal...
+[ -1.49771766e-03   2.99927742e-03   1.31811028e-03   1.52952189e-03
+   1.01562307e-03   3.05357640e-04  -2.99740669e-05  -1.65869404e-03
+   3.42597827e-03   1.47181937e-03   1.51425338e-03   1.16162748e-03
+   4.22261106e-04  -1.56567911e-05]
